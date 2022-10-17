@@ -75,10 +75,10 @@ global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0VF9d6C/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://i.ibb.co/0VF9d6C/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" //ur alive video or image link [github.com]
 //Bot theme media
-global.thum = fs.readFileSync("https://i.ibb.co/QvsqYGw/294182815-154612013827332-6721687004567255560-n.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("https://i.ibb.co/QvsqYGw/294182815-154612013827332-6721687004567255560-n.jpg") //ur logo pic
-global.err4r = fs.readFileSync("https://i.ibb.co/QvsqYGw/294182815-154612013827332-6721687004567255560-n.jpg") //ur error pic
-global.thumb = fs.readFileSync("https://i.ibb.co/QvsqYGw/294182815-154612013827332-6721687004567255560-n.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['94784868331'] //ur premium numbers
