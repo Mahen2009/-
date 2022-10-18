@@ -4,9 +4,9 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 NIPUNA Bot Inc. nero Bot MD
-//Thank you to Lord NIPUNA, Family and Myself
+//Thank you to Lord MAHIYA, Family and Myself
 //════════════════════════════//
-      // NIPUNA
+      // MAHIYA
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
