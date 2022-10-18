@@ -73,7 +73,7 @@ global.packname = "𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄ�
 global.author = "𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0VF9d6C/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://raw.githubusercontent.com/Mahen2009/Speed-Rider-Bot/main/storage/image/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" //ur alive video or image link [github.com]
+global.alive = "https://github.com/Mahen2009/Speed-Rider-Bot/blob/main/storage/image/Alive.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
