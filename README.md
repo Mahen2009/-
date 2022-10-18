@@ -1,6 +1,6 @@
 <h1 align="center"> 𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/x1SLFB2/Pics-Art-09-09-06-29-33.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://i.ibb.co/0VF9d6C/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" border="0">
 
 
 
