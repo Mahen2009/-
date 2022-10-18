@@ -8378,7 +8378,7 @@ break
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `*┏━━━❬NIPUNA MD📌❭*
+ caption: `*🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨*
      
    📥 VIDEO DOWNLODER* 
  
@@ -8392,10 +8392,10 @@ break
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME :* *📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 *
+*┃BOT NAME :*🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨*
 
 ┗━━━━━━━━━❊`,
- footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+ footer: `🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ `,
  buttons: buttons,
  headerType: 4,
  }
@@ -9042,8 +9042,43 @@ case 'alive': {
     │✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : ${global.owner}
     │✙ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
     │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
-    └┬──────────────┈ ⳹`,
-    footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+    └┬──────────────┈ ⳹
+    
+    ╔══════════════⦂⦁▹➤
+🌹⃟̥̥̥̥̄̄̄̄̄🍃𝑾𝑬𝑳𝑪𝑶𝑴𝑬🌹⃟̥̥̥̥̄̄̄̄̄🍃
+╠══════════════⦂⦁▹➤
+❖ 𝐈 𝐀𝐌 𝐇𝐄𝐋𝐏𝐈𝐍𝐆 𝐀𝐍𝐃 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓...🍃⃝̳̳̅̅̅̅💎
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+🌼⃝̳̲🍃̑̑🄾🅆🄽🄴🅁 ⦂⦁➤
+-🍃⃟̳̳🌺☵𝙈𝙖𝙝𝙚𝙣☵🌺̅̅̅⃟🍃
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+❯ BOT අනවශ්‍ය වැඩවලට භාවිතා නොකරන්න.🚫🔞
+
+❯ DON`T DISEPENSABLE WORK TO USE BOT🚫🔞
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් ගැන දැන ගන්න [ .menu ] එවන්න.🌼̠̠̠⃝💎̥̥̥
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් දෙන්න කලින් ( . ) එකක් ටයිප් කරන්න.💎̥̥̥̏̅̅̅̅̅⃟🍭
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+http://wa.me/++94784868331
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+╭──➤ ᴍᴀᴅᴇ ʙʏ➤────⦂⦁▹➣
+* 𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 ᵀᴱᴬᴹ*
+╰──────────────⦂⦁▹➣
+𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ*
+https://chat.whatsapp.com/GouSH97u4nJBzbeEWykZY4
+--🌹 𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳🌹--`,
+    footer: `🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨`,
     buttons: buttons,
     headerType: 4,
     }
@@ -9258,7 +9293,7 @@ case 'allmenu': {
     ╠${global.menumoji}  ${prefix}unblock [tag/number]
     ╠${global.menumoji}  ${prefix}coowner [add/del]
     ╠${global.menumoji}             
-    ╚═══❖📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9302,7 +9337,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}checkvote
     ╠${global.menumoji} ${prefix}delvote
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9413,7 +9448,7 @@ case 'allmenu': {
     ╠${global.menumoji}  ${prefix}watercolor
     ╠${global.menumoji}  ${prefix}classic
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9443,7 +9478,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}wamod
     ╠${global.menumoji} ${prefix}wa
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9477,7 +9512,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}mcserver [ip|port]
     ╠${global.menumoji} ${prefix}drakor [query]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9514,7 +9549,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}slow [reply aud]
     ╠${global.menumoji} ${prefix}squirrel [reply aud]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9537,7 +9572,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}deleteeffect
     ╠${global.menumoji} ${prefix}pixelate
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9557,7 +9592,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}animewall [query]
     ╠${global.menumoji}  ${prefix}animewall2 [query]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9578,7 +9613,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}pediaemoji
     ╠${global.menumoji} ${prefix}microsoftemoji
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9635,7 +9670,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}smug2
     ╠${global.menumoji} ${prefix}couplepp
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9651,7 +9686,7 @@ case 'allmenu': {
     ╠${global.menumoji}  ${prefix}doge
     ╠${global.menumoji}  ${prefix}lovesticker
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9689,7 +9724,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}neko
     ╠${global.menumoji} ${prefix}gura
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9723,7 +9758,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}hneko
     ╠${global.menumoji} ${prefix}nwaifu
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9796,7 +9831,7 @@ case 'allmenu': {
     ╠${global.menumoji}  ${prefix}fuckgirl
     ╠${global.menumoji}  ${prefix}plygirl
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9965,7 +10000,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}sound160
     ╠${global.menumoji} ${prefix}sound161
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9980,7 +10015,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}math [mode]
     ╠${global.menumoji} ${prefix}suitpvp [tag]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -9994,7 +10029,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}leave
     ╠══════📛「 TOOL 」
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
      
 
 
@@ -10005,7 +10040,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}fliptext [text]
     ╠${global.menumoji} ${prefix}toletter [number]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -10022,7 +10057,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}getmsg
     ╠${global.menumoji} ${prefix}delmsg
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -10055,7 +10090,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}earthquake
     ╠${global.menumoji} ${prefix}tvschedule 
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
@@ -10094,7 +10129,7 @@ case 'allmenu': {
     ╠${global.menumoji} ${prefix}zodiak
     ╠${global.menumoji} ${prefix}shio
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
  
 
 
@@ -10122,7 +10157,7 @@ case 'allmenu': {
     ╠${global.menumoji}  ${prefix}request
     ╠${global.menumoji} ${prefix}report [bug]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 `,
     footer: `${global.botname}`,
     buttons: buttons,
@@ -10139,7 +10174,7 @@ case'mainmenu': {
     ]
     let buttonMessage = {
     image: { url: `${global.menuimg}` },
-    caption:`═════ 👽 Nipuna ═════*
+    caption:`═════ 💍Mahen Lakshitha 🌹⃝⃘̉̉̉̉̉̉ ═════*
     ╠${global.menumoji}
     ╠═════📛「 DOWNLOAD 」	
     ╠${global.menumoji} ${prefix}instagram [url]
@@ -10164,11 +10199,11 @@ case'mainmenu': {
     ╠${global.menumoji} ${prefix}wamod
     ╠${global.menumoji} ${prefix}wa
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════ 👽 💍Mahen Lakshitha 🌹⃝⃘̉̉̉̉̉̉ ═════*
     ╠${global.menumoji}
     ╠═══════📛「 SEARCH 」	
     ╠${global.menumoji} ${prefix}play [query]
@@ -10198,7 +10233,7 @@ case'mainmenu': {
     ╠${global.menumoji} ${prefix}mcserver [ip|port]
     ╠${global.menumoji} ${prefix}drakor [query]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10253,7 +10288,7 @@ case'groupmenu': {
     ╠${global.menumoji} ${prefix}checkvote
     ╠${global.menumoji} ${prefix}delvote
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
     buttons: buttons,
     headerType: 4,
@@ -10299,7 +10334,7 @@ case'searchmenu': {
     ╠${global.menumoji} ${prefix}mcserver [ip|port]
     ╠${global.menumoji} ${prefix}drakor [query]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10338,7 +10373,7 @@ case'Gamesmenu': {
     ╠${global.menumoji}  ${prefix}unblock [tag/number]
     ╠${global.menumoji}  ${prefix}coowner [add/del]
     ╠${global.menumoji}             
-    ╚═══❖📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶❯`,
+    ╚═══❖🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨❯`,
     footer: `${global.botname}`,
     buttons: buttons,
     headerType: 4,
@@ -10460,7 +10495,7 @@ case'mekermenu': {
     ╠${global.menumoji}  ${prefix}watercolor
     ╠${global.menumoji}  ${prefix}classic
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
     buttons: buttons,
     headerType: 4,
@@ -10501,7 +10536,7 @@ case'downloadmenu': {
     ╠${global.menumoji} ${prefix}wamod
     ╠${global.menumoji} ${prefix}wa
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ `,
     footer: `${global.botname}`,
     buttons: buttons,
     headerType: 4,
@@ -10549,7 +10584,7 @@ case'convertmenu': {
     ╠${global.menumoji} ${prefix}slow [reply aud]
     ╠${global.menumoji} ${prefix}squirrel [reply aud]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10583,7 +10618,7 @@ case'Imgeffectmenu': {
     ╠${global.menumoji} ${prefix}deleteeffect
     ╠${global.menumoji} ${prefix}pixelate
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10615,7 +10650,7 @@ case'arandomImgmenu': {
     ╠${global.menumoji} ${prefix}animewall [query]
     ╠${global.menumoji}  ${prefix}animewall2 [query]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10647,7 +10682,7 @@ case'EMOTEmenu': {
     ╠${global.menumoji} ${prefix}pediaemoji
     ╠${global.menumoji} ${prefix}microsoftemoji
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10715,7 +10750,7 @@ case'ANIMEmenu': {
     ╠${global.menumoji} ${prefix}smug2
     ╠${global.menumoji} ${prefix}couplepp
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10742,7 +10777,7 @@ case'STICKERmenu': {
     ╠${global.menumoji}  ${prefix}doge
     ╠${global.menumoji}  ${prefix}lovesticker
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10791,7 +10826,7 @@ case'ANIMESTICKERmenu': {
     ╠${global.menumoji} ${prefix}neko
     ╠${global.menumoji} ${prefix}gura
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10836,7 +10871,7 @@ case'NSFWmenu': {
     ╠${global.menumoji} ${prefix}hneko
     ╠${global.menumoji} ${prefix}nwaifu
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -10920,7 +10955,7 @@ case'funmenu': {
     ╠${global.menumoji}  ${prefix}fuckgirl
     ╠${global.menumoji}  ${prefix}plygirl
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11100,7 +11135,7 @@ case'Soundmenu': {
     ╠${global.menumoji} ${prefix}sound160
     ╠${global.menumoji} ${prefix}sound161
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11126,7 +11161,7 @@ case'Gamesmenu': {
     ╠${global.menumoji} ${prefix}math [mode]
     ╠${global.menumoji} ${prefix}suitpvp [tag]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11151,7 +11186,7 @@ case'ANONYMOUSCHATmenu': {
     ╠${global.menumoji} ${prefix}leave
     ╠══════📛「 TOOL 」
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯
      
 
 
@@ -11162,7 +11197,7 @@ case'ANONYMOUSCHATmenu': {
     ╠${global.menumoji} ${prefix}fliptext [text]
     ╠${global.menumoji} ${prefix}toletter [number]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11190,7 +11225,7 @@ case'databasemenu': {
     ╠${global.menumoji} ${prefix}getmsg
     ╠${global.menumoji} ${prefix}delmsg
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11234,7 +11269,7 @@ case'lNDO': {
     ╠${global.menumoji} ${prefix}earthquake
     ╠${global.menumoji} ${prefix}tvschedule 
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11284,7 +11319,7 @@ case'INDOhoroscopemenu': {
     ╠${global.menumoji} ${prefix}zodiak
     ╠${global.menumoji} ${prefix}shio
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
@@ -11322,7 +11357,7 @@ case'othermenu': {
     ╠${global.menumoji}  ${prefix}request
     ╠${global.menumoji} ${prefix}report [bug]
     ╠${global.menumoji}             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯`,
+    ╚═══❖  🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ ❯`,
     footer: `${global.botname}`,
                 buttons: buttons,
                 headerType: 4,
