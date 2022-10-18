@@ -1,6 +1,6 @@
 <h1 align="center"> 𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/0VF9d6C/5a3c933f-db00-406c-888d-e55e6c9b278d.jpg" border="0">
+<img src="https://i.ibb.co/QvsqYGw/294182815-154612013827332-6721687004567255560-n.jpg" border="0">
 
 
 
