@@ -6096,7 +6096,7 @@ case 'wamod': case 'mod': {
 
        *Mod ගණන :-* 6`,
        footer: `${global.botname}`,
-       title: `*Mod Whatsapp Downloder By Nipuna*`,
+       title: `*Mod Whatsapp Downloder By Mahiya*`,
        buttonText: "Select",
        sections
       }, { quoted : m })
@@ -8158,7 +8158,7 @@ let buttons = [
 ]
 let buttonMessage = {
 image: { url: anu.thumbnail },
-caption: `*┏━━━❬NIPUNA MD📌❭*
+caption: `*┏━━━❬Mahiya MD📌❭*
      
    *📥 YOUTUBE DOWNLODER* 
  
@@ -8172,10 +8172,10 @@ caption: `*┏━━━❬NIPUNA MD📌❭*
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : 🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨
 
 ┗━━━━━━━━━❊`,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+footer: `🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨`,
 buttons: buttons,
 headerType: 4,
 }
@@ -8208,10 +8208,10 @@ caption: `*┏━━━❬NIPUNA MD📌❭*
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : 🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨
 
 ┗━━━━━━━━━❊`,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+footer: `🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ `,
 buttons: buttons,
 headerType: 4,
 }
@@ -8240,11 +8240,11 @@ listMessage :{
 
 *┃🔖Description : ${anu.description}
 
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : 🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨
 
 ┗━━━━━━━━━❊`,
  buttonText: "Menu",
- footerText: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+ footerText: `🔥𝘚ᴘⷮᴇⷩᴇⷷᴅ 𝘙𝘪𝘥𝘦𝘳 Ơꜰꜰɪᴄɪᴀʟ✨ `,
  listType: "SINGLE_SELECT",
  sections: [{
     "title": "MP4",
