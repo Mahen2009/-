@@ -8194,7 +8194,7 @@ let buttons = [
 ]
 let buttonMessage = {
 image: { url: anu.thumbnail },
-caption: `*┏━━━❬NIPUNA MD📌❭*
+caption: `*┏━━━❬Mahiya MD📌❭*
      
    *📥 SONG DOWNLODER* 
  
@@ -8226,7 +8226,7 @@ case 'ytdl': {
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 listMessage :{
  title: `Hi ${pushname}`,
- description: `*┏━━━❬NIPUNA MD📌❭*
+ description: `*┏━━━❬Mahiya MD📌❭*
      
   📥 ADVANCE YOUTUBE DOWNLODER* 
 
